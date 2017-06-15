@@ -302,7 +302,7 @@ namespace MySampleBot
             {
                 string[] innerParsedWord = word.Split(funcSeparators, StringSplitOptions.None);
 
-                if (innerParsedWord.Length == 1)
+                if (word.Length == 1 || innerParsedWord.Length == 1)
                 {
                     resultWords.Add(word);
                 }
