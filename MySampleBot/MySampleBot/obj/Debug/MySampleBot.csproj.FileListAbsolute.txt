@@ -1,0 +1,38 @@
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Bot Application1.dll.config
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Bot Application1.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Bot Application1.pdb
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Autofac.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Chronic.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Newtonsoft.Json.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\System.Net.Http.Formatting.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\System.Web.Http.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\System.Web.Http.WebHost.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Autofac.xml
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Newtonsoft.Json.xml
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\System.Net.Http.Formatting.xml
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\System.Web.Http.xml
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\System.Web.Http.WebHost.xml
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\obj\Debug\Bot Application1.dll
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\obj\Debug\Bot Application1.pdb
