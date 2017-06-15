@@ -36,3 +36,4 @@ C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\
 C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
 C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\obj\Debug\Bot Application1.dll
 C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\obj\Debug\Bot Application1.pdb
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\obj\Debug\MySampleBot.csprojResolveAssemblyReference.cache

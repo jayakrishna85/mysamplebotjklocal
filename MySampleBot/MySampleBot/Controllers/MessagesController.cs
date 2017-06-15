@@ -17,7 +17,7 @@ namespace MySampleBot
     public class MessagesController : ApiController
     {        
         private string[] separators;
-        string InvalidDataMessage;
+        private string InvalidDataMessage;
 
         public MessagesController()
         {            
@@ -112,13 +112,13 @@ namespace MySampleBot
             message.AppendLine("--");
             message.AppendLine("___");
             message.AppendLine();
-            message.AppendLine("Multiply 5 6");
+            message.AppendLine("5*6");
             message.AppendLine();
-            message.AppendLine("Multiply 5*6");
+            message.AppendLine("Add 9 6");
+            message.AppendLine();
+            message.AppendLine("Multiply 5, 6");
             message.AppendLine();
             message.AppendLine("Calculate 5*6");
-            message.AppendLine();
-            message.AppendLine("5*6");
             message.AppendLine();
 
             return message.ToString();
@@ -260,7 +260,7 @@ namespace MySampleBot
 
         private CalculatorFunc ParseCalculatorFunc(string value)
         {
-            value.Trim().ToLower();
+            value = value.Trim().ToLower();
 
             CalculatorFunc calculatorFunc = CalculatorFunc.Default;
 
