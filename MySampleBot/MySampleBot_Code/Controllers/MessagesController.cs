@@ -302,7 +302,7 @@ namespace MySampleBot
             {
                 string[] innerParsedWord = word.Split(funcSeparators, StringSplitOptions.None);
 
-                if (innerParsedWord.Length == 1)
+                if (word.Length == 1 || innerParsedWord.Length == 1)
                 {
                     resultWords.Add(word);
                 }
@@ -311,32 +311,32 @@ namespace MySampleBot
                     if(word.Contains("+"))
                     {
                         resultWords.Add("+");
-                        resultWords.AddRange(word.Split(new string[] { "+" }, StringSplitOptions.RemoveEmptyEntries));
+                        resultWords.AddRange(word.Split(new string[] { "+" }, StringSplitOptions.None));
                     }
                     else if (word.Contains("-"))
                     {
                         resultWords.Add("-");
-                        resultWords.AddRange(word.Split(new string[] { "-" }, StringSplitOptions.RemoveEmptyEntries));
+                        resultWords.AddRange(word.Split(new string[] { "-" }, StringSplitOptions.None));
                     }
                     else if (word.Contains("*"))
                     {
                         resultWords.Add("*");
-                        resultWords.AddRange(word.Split(new string[] { "*" }, StringSplitOptions.RemoveEmptyEntries));
+                        resultWords.AddRange(word.Split(new string[] { "*" }, StringSplitOptions.None));
                     }
                     else if (word.Contains("x"))
                     {
                         resultWords.Add("x");
-                        resultWords.AddRange(word.Split(new string[] { "x" }, StringSplitOptions.RemoveEmptyEntries));
+                        resultWords.AddRange(word.Split(new string[] { "x" }, StringSplitOptions.None));
                     }
                     else if (word.Contains("X"))
                     {
                         resultWords.Add("X");
-                        resultWords.AddRange(word.Split(new string[] { "X" }, StringSplitOptions.RemoveEmptyEntries));
+                        resultWords.AddRange(word.Split(new string[] { "X" }, StringSplitOptions.None));
                     }
                     else if (word.Contains("/"))
                     {
                         resultWords.Add("/");
-                        resultWords.AddRange(word.Split(new string[] { "/" }, StringSplitOptions.RemoveEmptyEntries));
+                        resultWords.AddRange(word.Split(new string[] { "/" }, StringSplitOptions.None));
                     }
                 }
             }
