@@ -37,3 +37,43 @@ C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\
 C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\obj\Release\MySampleBot.csprojResolveAssemblyReference.cache
 C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\obj\Release\Bot Application1.dll
 C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\MySampleBot\obj\Release\Bot Application1.pdb
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Bot Application1.dll.config
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Bot Application1.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Bot Application1.pdb
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Autofac.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Chronic.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.Bot.Builder.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.Bot.Connector.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Newtonsoft.Json.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\System.Net.Http.Formatting.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\System.Web.Http.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\System.Web.Http.WebHost.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Autofac.xml
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.Bot.Builder.xml
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.Bot.Connector.xml
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\Newtonsoft.Json.xml
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\System.Net.Http.Formatting.xml
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\System.Web.Http.xml
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\System.Web.Http.WebHost.xml
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\obj\Release\MySampleBot.csprojResolveAssemblyReference.cache
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\obj\Release\Bot Application1.dll
+D:\GitHub\mysamplebotjklocal\MySampleBot\MySampleBot\obj\Release\Bot Application1.pdb

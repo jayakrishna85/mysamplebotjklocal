@@ -92,10 +92,10 @@ namespace MySampleBot
             StringBuilder message = new StringBuilder();
             if (text.Trim().ToLower() != "help")
             {
-                message.AppendLine("Welcome to My Sample Bot");
+                message.AppendLine("Welcome to Sample Calculator Bot");
                 message.AppendLine("___");
             }
-            message.AppendLine("Your have below options to use calculator:");
+            message.AppendLine("You can perform below operations:");
             message.AppendLine("___");
             message.AppendLine();
             message.AppendLine("Add");
@@ -242,7 +242,7 @@ namespace MySampleBot
                         break;
                 }
 
-                return "Output : " + result;
+                return "Result : " + result;
             }
 
             return InvalidDataMessage;

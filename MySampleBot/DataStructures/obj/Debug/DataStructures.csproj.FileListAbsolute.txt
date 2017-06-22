@@ -1,0 +1,6 @@
+D:\GitHub\mysamplebotjklocal\MySampleBot\DataStructures\bin\Debug\DataStructures.exe.config
+D:\GitHub\mysamplebotjklocal\MySampleBot\DataStructures\bin\Debug\DataStructures.exe
+D:\GitHub\mysamplebotjklocal\MySampleBot\DataStructures\bin\Debug\DataStructures.pdb
+D:\GitHub\mysamplebotjklocal\MySampleBot\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
+D:\GitHub\mysamplebotjklocal\MySampleBot\DataStructures\obj\Debug\DataStructures.exe
+D:\GitHub\mysamplebotjklocal\MySampleBot\DataStructures\obj\Debug\DataStructures.pdb
