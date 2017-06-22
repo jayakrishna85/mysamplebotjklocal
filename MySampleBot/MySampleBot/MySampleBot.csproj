@@ -134,8 +134,12 @@
   <ItemGroup>
     <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\MySampleBotJKLocal - FTP %282%29.pubxml" />
+    <None Include="Properties\PublishProfiles\MySampleBotJKLocal - FTP %283%29.pubxml" />
+    <None Include="Properties\PublishProfiles\MySampleBotJKLocal - FTP %284%29.pubxml" />
     <None Include="Properties\PublishProfiles\MySampleBotJKLocal - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\MySampleBotJKLocal - Web Deploy %282%29.pubxml" />
+    <None Include="Properties\PublishProfiles\MySampleBotJKLocal - Web Deploy %283%29.pubxml" />
+    <None Include="Properties\PublishProfiles\MySampleBotJKLocal - Web Deploy %284%29.pubxml" />
     <None Include="Properties\PublishProfiles\MySampleBotJKLocal - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

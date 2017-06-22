@@ -4,3 +4,9 @@ D:\GitHub\mysamplebotjklocal\MySampleBot\DataStructures\bin\Debug\DataStructures
 D:\GitHub\mysamplebotjklocal\MySampleBot\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
 D:\GitHub\mysamplebotjklocal\MySampleBot\DataStructures\obj\Debug\DataStructures.exe
 D:\GitHub\mysamplebotjklocal\MySampleBot\DataStructures\obj\Debug\DataStructures.pdb
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\DataStructures\bin\Debug\DataStructures.exe.config
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\DataStructures\bin\Debug\DataStructures.exe
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\DataStructures\obj\Debug\DataStructures.exe
+C:\Users\jgudla\Documents\Visual Studio 2015\Projects\JKApps\mysamplebotjklocal\MySampleBot\DataStructures\obj\Debug\DataStructures.pdb

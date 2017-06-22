@@ -93,23 +93,23 @@ namespace MySampleBot
             if (text.Trim().ToLower() != "help")
             {
                 message.AppendLine("Welcome to Sample Calculator Bot");
-                message.AppendLine("___");
+                message.AppendLine(" ");
             }
             message.AppendLine("You can perform below operations:");
-            message.AppendLine("___");
+            message.AppendLine(" ");
             message.AppendLine();
-            message.AppendLine("Add");
+            message.AppendLine("1. Add");
             message.AppendLine("");
-            message.AppendLine("Subtract");
+            message.AppendLine("2. Subtract");
             message.AppendLine("");
-            message.AppendLine("Multiply");
+            message.AppendLine("3. Multiply");
             message.AppendLine("");
-            message.AppendLine("Divide");
-            message.AppendLine("");
+            message.AppendLine("4. Divide");
+            message.AppendLine(" ");
 
-            message.AppendLine("___");
-            message.AppendLine("Ex:");
-            message.AppendLine("--");
+            message.AppendLine(" ");
+            message.AppendLine("Sample commands:");
+            //message.AppendLine("--");
             message.AppendLine("___");
             message.AppendLine();
             message.AppendLine("5*6");
@@ -136,6 +136,7 @@ namespace MySampleBot
                 case "hello":
                 case "welcome":
                 case "help":
+                case "ping":
                     showWelcomeMessage = true;
                     break;
             }
@@ -267,19 +268,23 @@ namespace MySampleBot
             switch (value)
             {
                 case "add":
+                case "addition":
                 case "+":
                     calculatorFunc = CalculatorFunc.Add;
                     break;
                 case "subtract":
+                case "sub":
                 case "-":
                     calculatorFunc = CalculatorFunc.Subtract;
                     break;
                 case "multiply":
+                case "mult":
                 case "*":
                 case "x":
                     calculatorFunc = CalculatorFunc.Multiply;
                     break;
                 case "divide":
+                case "div":
                 case "/":
                     calculatorFunc = CalculatorFunc.Divide;
                     break;
